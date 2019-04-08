@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "697231430498",
+    "firebase_url": "https://foresttresures.firebaseio.com",
+    "project_id": "foresttresures",
+    "storage_bucket": "foresttresures.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697231430498:android:8dd145073e2aafb1",
+        "android_client_info": {
+          "package_name": "ninja.forest.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697231430498-esir7u50ullmcom6kobm5ikj79n0f5u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuQnJclxlKnaoaK3dro-umHQoUXl-ffJU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
